@@ -1,0 +1,50 @@
+[
+  {
+    "userid" : 1,
+    "name": "name01",
+    "login": "name01@company.com",
+    "password": "secret"
+  },
+  {
+    "userid" : 2,
+    "name": "name02",
+    "login": "name02@company.com",
+    "password": "secret"
+  },
+  {
+    "userid" : 3,
+    "name": "name03",
+    "login": "name031@company.com",
+    "password": "secret"
+  },
+  {
+    "userid" : 4,
+    "name": "name04",
+    "login": "name04@company.com",
+    "password": "secret"
+  },
+  {
+    "userid" : 5,
+    "name": "name05",
+    "login": "name05@company.com",
+    "password": "secret"
+  },
+  {
+    "userid" : 6,
+    "name": "name06",
+    "login": "name06@company.com",
+    "password": "secret"
+  },
+  {
+    "userid" : 7,
+    "name": "name07",
+    "login": "name07@company.com",
+    "password": "secret"
+  },
+  {
+    "userid" : 8,
+    "name": "name08",
+    "login": "name08@company.com",
+    "password": "secret"
+  }
+]
